@@ -1,0 +1,3 @@
+add function hello
+
+run function
