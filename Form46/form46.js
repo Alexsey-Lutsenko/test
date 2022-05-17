@@ -1,3 +1,3 @@
-function new() {
-  console.log('new file')
+function newF() {
+	console.log("new file");
 }
